@@ -1,0 +1,27 @@
+#kbttc-term-color,
+.kbttc-term-circle {
+	border-radius: 50%;
+	padding: 0;
+	border: 0;
+}
+#kbttc-term-color {
+	cursor: pointer;
+}
+.kbttc-term-circle {
+	width: 15px;
+	height: 15px;
+}
+#kbttc-term-color {
+	width: 30px;
+	height: 30px;
+}
+#kbttc-term-color::-webkit-color-swatch {
+	border: none;
+	border-radius: 50%;
+	padding: 0;
+}
+#kbttc-term-color::-webkit-color-swatch-wrapper {
+	border: none;
+	border-radius: 50%;
+	padding: 0;
+}
